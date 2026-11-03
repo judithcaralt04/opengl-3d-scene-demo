@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Build output
+x64/
+Debug/
+Release/
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.o
+*.exp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

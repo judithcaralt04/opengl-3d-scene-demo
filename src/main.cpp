@@ -1,4 +1,4 @@
-/*  Base code by Alun Evans 2016 LaSalle (aevanss@salleurl.edu) modified by: Conrado Ruiz, Ferran Ruiz 2024*/
+/*  Base code by Alun Evans 2016 LaSalle modified by: Conrado Ruiz, Ferran Ruiz 2024*/
 
 // student name: judith.caralt
 
